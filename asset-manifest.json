@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/deepeloper/static/js/main.824bea86.js",
+    "main.js": "/deepeloper/static/js/main.d1f4a3da.js",
     "index.html": "/deepeloper/index.html",
-    "main.824bea86.js.map": "/deepeloper/static/js/main.824bea86.js.map"
+    "main.d1f4a3da.js.map": "/deepeloper/static/js/main.d1f4a3da.js.map"
   },
   "entrypoints": [
-    "static/js/main.824bea86.js"
+    "static/js/main.d1f4a3da.js"
   ]
 }
